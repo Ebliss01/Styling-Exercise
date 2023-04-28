@@ -1,0 +1,33 @@
+ body
+    {
+        background-color: black;
+        color: whitesmoke;
+    }
+
+    h1 
+      {
+        background-color: coral;
+        text-align: center;
+        padding: 10px;
+        margin: 5%;
+      }
+    h2 
+      { background-color: coral;
+        text-align: center;
+
+      }
+
+    li 
+       {
+        border: 6px green solid;
+        background-color: rosybrown;
+       }
+
+       a:hover {
+                color: red;
+       }
+
+       p::first-letter { font-size: 60Spx;
+                         color: chartreuse;
+
+       }
